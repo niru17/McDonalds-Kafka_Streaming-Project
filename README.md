@@ -63,7 +63,6 @@ Ensure you have the following installed:
 - The donut chart in MongoDB Atlas aggregates the `payment_method` field and calculates the total payments for each method.
 
 ## Future Enhancements
-- Implement a **dashboard** for real-time monitoring.
 - Add **alerting mechanisms** for unusual payment patterns.
 - Extend the project to support **real-time fraud detection**.
 
