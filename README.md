@@ -68,6 +68,3 @@ Ensure you have the following installed:
 
 ## Contributing
 Feel free to **fork the repository** and submit a PR with improvements!
-
-## License
-This project is licensed under the MIT License.
